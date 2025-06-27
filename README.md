@@ -18,7 +18,7 @@ A backbone data science pipeline for structured data analysis and modeling, demo
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/konkalaitzidis/ds-pipeline.git
    cd ds-pipeline
    ```
 2. Create and activate a virtual environment:
